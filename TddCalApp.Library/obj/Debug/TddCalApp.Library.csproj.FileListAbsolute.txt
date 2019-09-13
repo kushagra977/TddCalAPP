@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\TddCalApp\TddCalApp.Library\bin\Debug\TddCalApp.Library.dll
+C:\Users\admin\source\repos\TddCalApp\TddCalApp.Library\bin\Debug\TddCalApp.Library.pdb
+C:\Users\admin\source\repos\TddCalApp\TddCalApp.Library\obj\Debug\TddCalApp.Library.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\TddCalApp\TddCalApp.Library\obj\Debug\TddCalApp.Library.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TddCalApp\TddCalApp.Library\obj\Debug\TddCalApp.Library.dll
+C:\Users\admin\source\repos\TddCalApp\TddCalApp.Library\obj\Debug\TddCalApp.Library.pdb
